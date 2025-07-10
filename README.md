@@ -20,7 +20,7 @@ Este proyecto está desarrollado utilizando **Jakarta Faces (JSF)** con Facelets
 
 ---
 
-## 🛠 Requisitos del sistema
+##  Requisitos del sistema
 
 - Java JDK 21 o superior  
 - Maven 
