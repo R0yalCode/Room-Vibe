@@ -146,8 +146,10 @@ room-vibe-web/
 <img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/b4332f5e-fd39-4952-a536-d22648bdd12d" />
 
 ### Vista 3: recuperar.xhtml
+<img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/b7b6f271-c2cd-4690-9156-acd83a2db41b" />
 
 ### Vista 4: reserva.xhtml
+<img width="1916" height="939" alt="image" src="https://github.com/user-attachments/assets/537e49b3-12ac-4e32-af02-ceb05ce71e2e" />
 
 ### Vista 5: servicios.xhtml
 
