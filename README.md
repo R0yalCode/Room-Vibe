@@ -11,23 +11,7 @@ Este proyecto está desarrollado utilizando **Jakarta Faces (JSF)** con Facelets
 
 
 
----
 
-##  Instalación del proyecto
-
-```bash
-git clone https://github.com/R0yalCode/Room-Vibe.git
-cd Room-Vibe
-mvn clean install
-```
-
-  ## Requisitos de Sistema
-- Java SE 21
-- Apache Maven (versión 3.8.x o superior)
-- Un navegador web moderno 
-- IDE como IntelliJ IDEA para desarrollo
-> No es necesario instalar Maven si usas el Maven Wrapper (mvnw, mvnw.cmd).
-Asegúrate de tener configurada la variable de entorno JAVA_HOME apuntando a tu instalación de Java.
 
 ## Estructura del Proyecto
 ```bash
