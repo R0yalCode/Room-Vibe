@@ -9,14 +9,7 @@
 
 Este proyecto está desarrollado utilizando **Jakarta Faces (JSF)** con Facelets para construir una interfaz gráfica funcional, limpia y conectada a la lógica del sistema mediante *managed beans*. Ha sido creado en un entorno educativo como parte de una entrega evaluada en base a diseño, integración, usabilidad y trabajo en equipo.
 
----
 
-##  Roles del equipo
-
-- **Diseñador de interfaz**: Maquetación de vistas `.xhtml`.
-- **Lógica de vista / Controlador**: Implementación de `@Named` y `@ManagedBean`.
-- **Coordinador de pruebas**: Validación de flujo y usabilidad.
-- **Planificación**: Revisión de requisitos y priorización de pantallas a desarrollar.
 
 ---
 
