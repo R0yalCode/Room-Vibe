@@ -158,5 +158,10 @@ room-vibe-web/
 ### Vista 6: contacto.xhtml
 <img width="1903" height="960" alt="image" src="https://github.com/user-attachments/assets/a2c055f9-5ef2-44ad-bd9e-7f3a39f7fcad" />
 
+## Autores: 
+### [Royel Jima](https://github.com/R0yalCode)
+### [Steeven Pardo](https://github.com/Dan1el17)
+### [Juan Calopino](https://github.com/JuaaanCalopino)
+### [Daniel Saavedra](https://github.com/Dan-San837)
 
 
