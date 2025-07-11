@@ -138,4 +138,18 @@ room-vibe-web/
                          ├── footer.xhtml
                          └── topbar.xhtml
 ```
+## Vistas del Sistema
+### Vista 1: index.xhtml
+
+### Vista 2: login.xhtml
+
+### Vista 3: recuperar.xhtml
+
+### Vista 4: reserva.xhtml
+
+### Vista 5: servicios.xhtml
+
+### Vista 6: contacto.xhtml
+
+
 
