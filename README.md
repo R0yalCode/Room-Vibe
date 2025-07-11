@@ -140,6 +140,7 @@ room-vibe-web/
 ```
 ## Vistas del Sistema
 ### Vista 1: index.xhtml
+<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/7c14623e-d9b8-4c4c-955b-6880326be2af" />
 
 ### Vista 2: login.xhtml
 
