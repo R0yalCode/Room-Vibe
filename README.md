@@ -138,4 +138,25 @@ room-vibe-web/
                          ├── footer.xhtml
                          └── topbar.xhtml
 ```
+## Vistas del Sistema
+### Vista 1: index.xhtml
+<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/7c14623e-d9b8-4c4c-955b-6880326be2af" />
+
+### Vista 2: login.xhtml
+<img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/b4332f5e-fd39-4952-a536-d22648bdd12d" />
+
+### Vista 3: recuperar.xhtml
+<img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/b7b6f271-c2cd-4690-9156-acd83a2db41b" />
+
+### Vista 4: reserva.xhtml
+<img width="1916" height="939" alt="image" src="https://github.com/user-attachments/assets/537e49b3-12ac-4e32-af02-ceb05ce71e2e" />
+
+### Vista 5: servicios.xhtml
+<img width="1919" height="964" alt="image" src="https://github.com/user-attachments/assets/7c62735a-3804-4b47-a78c-fc3abcc78996" />
+<img width="1902" height="960" alt="image" src="https://github.com/user-attachments/assets/06c115d6-0ca9-4594-9116-0887f48ec990" />
+
+### Vista 6: contacto.xhtml
+<img width="1903" height="960" alt="image" src="https://github.com/user-attachments/assets/a2c055f9-5ef2-44ad-bd9e-7f3a39f7fcad" />
+
+
 
