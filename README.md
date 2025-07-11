@@ -152,6 +152,9 @@ room-vibe-web/
 <img width="1916" height="939" alt="image" src="https://github.com/user-attachments/assets/537e49b3-12ac-4e32-af02-ceb05ce71e2e" />
 
 ### Vista 5: servicios.xhtml
+<img width="1919" height="964" alt="image" src="https://github.com/user-attachments/assets/7c62735a-3804-4b47-a78c-fc3abcc78996" />
+<img width="1902" height="960" alt="image" src="https://github.com/user-attachments/assets/06c115d6-0ca9-4594-9116-0887f48ec990" />
+
 
 ### Vista 6: contacto.xhtml
 
