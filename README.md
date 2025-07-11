@@ -129,6 +129,34 @@ room-vibe-web/
 
 ---
 
+  ## Requisitos de Sistema
+- Java SE 21
+- Apache Maven (versión 3.8.x o superior)
+- Un navegador web moderno 
+- IDE como IntelliJ IDEA para desarrollo
+> No es necesario instalar Maven si usas el Maven Wrapper (mvnw, mvnw.cmd).
+Asegúrate de tener configurada la variable de entorno JAVA_HOME apuntando a tu instalación de Java.
+
+---
+
+##  Instalación del proyecto
+
+```bash
+git clone https://github.com/R0yalCode/Room-Vibe.git
+cd Room-Vibe
+mvn clean install
+```
+---
+
+##  Roles del equipo
+
+- **Diseñador de interfaz**: Maquetación de vistas `.xhtml`.
+- **Lógica de vista / Controlador**: Implementación de `@Named` y `@ManagedBean`.
+- **Coordinador de pruebas**: Validación de flujo y usabilidad.
+- **Planificación**: Revisión de requisitos y priorización de pantallas a desarrollar.
+
+---
+
 ## Autores: 
 ### [Royel Jima](https://github.com/R0yalCode)
 ### [Steeven Pardo](https://github.com/Dan1el17)
